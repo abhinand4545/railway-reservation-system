@@ -1,3 +1,5 @@
+print("railway-reservation-system")
+
 import random
 
 # Total seats
